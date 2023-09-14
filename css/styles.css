@@ -43,17 +43,12 @@ address {
     font-style: normal;
 }
 
-.contacts {
-    font-style: normal;
-}
-
 .contacts-list {
     list-style-type: none;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.32px;
-    font-style: normal;
 }
 
 .contacts-link {
