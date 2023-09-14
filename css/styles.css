@@ -39,6 +39,10 @@ body {
     text-decoration: underline;
 }
 
+address {
+    font-style: normal;
+}
+
 .contacts {
     font-style: normal;
 }
